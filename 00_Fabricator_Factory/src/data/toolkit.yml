@@ -1,16 +1,16 @@
 colors:
   primary:
-    c_bb_blue: "#0075DE"
-    c_bb_midblue: "#41B6E6"
-    c_bb_lightblue: "#E6F0F7"
+    primary_alpha: "#0075DE"
+    primary_beta: "#41B6E6"
+    primary_charlie: "#E6F0F7"
   secondary:
-    c_orange: "#F59331"
-    c_yellow: "#E60E0E"
+    secondary_alpha: "#F59331"
+    secondary_beta: "#E60E0E"
   typography:
-    c_darkgrey: "#353535"
-    c_midgrey: "#636363"
-    c_lightgrey: "#A5A5A5"
+    typography_alpha: "#353535"
+    typography_beta: "#636363"
+    typography_charlie: "#A5A5A5"
   stroke:
-    c_slategrey: "#898D8D"
-    c_lightgrey: "#A5A5A5"
-		c_lightestgrey: "#DCDCDC"
+    stroke_alpha: "#898D8D"
+    stroke_beta: "#A5A5A5"
+		stroke_charlie: "#DCDCDC"
